@@ -1,6 +1,6 @@
 
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-<h1 align="center">Hi 👋, I'm Ritik Patel</h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank"> Ritik patel </a></h1>
 <h3 align="center">A passionate Full-Stack Developer(MERN) from India</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Ritik%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@
 ---
 ### 👦 About Me
 
-- 🔭 Here is my **Portfolio** at [My Portfolio](https://portfolio-ritik177.vercel.app/)
+- 🔭 Check out my personal **portfolio**  [Portfolio](https://portfolio-ritik177.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritik177](https://github.com/ritik177)
 
