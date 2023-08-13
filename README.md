@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at **:** [https://github.com/ritik177](https://github.com/ritik177)
 
-- 💬 Ask me about **:** **React.js,javaScript,Node.js,MongoDB,Express.js,Redux,Java**
+- 💬 Ask me about **:** **React.js, javaScript, Node.js, MongoDB, Express.js, Redux, Java**
 
 - 📫 How to reach me **:** **ritikpatel82993@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf](https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf)
+- 📄 Know about my experiences **:** [https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf](https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf)
 ---
 
 <h3 align="center">Languages</h3>
