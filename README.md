@@ -9,7 +9,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik177&label=Profile%20views&color=0e75b6&style=flat" alt="ritik177" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ritik177.vercel.app/](https://portfolio-ritik177.vercel.app/)
+---
+### 👦 About Me
+
+- 🔭 Here is my **Portfolio** at [My Portfolio](https://portfolio-ritik177.vercel.app/)
+
+- 👨‍💻 All of my projects are available at [https://github.com/ritik177](https://github.com/ritik177)
 
 - 💬 Ask me about **React.js,javaScript,Node.js,MongoDB,Express.js,Redux,Java**
 
