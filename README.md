@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank"> Ritik patel </a></h1>
 <h3 align="center">A passionate Full-Stack Developer(MERN) from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Ritik%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Ritik%2C+Welcome+to+my+Github+page.)](https://github.com/ritik177)
 
 
 
