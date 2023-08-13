@@ -14,11 +14,11 @@
 
 - 🔭 Check out my personal **portfolio :** [Portfolio](https://portfolio-ritik177.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ritik177](https://github.com/ritik177)
+- 👨‍💻 All of my projects are available at **:** [https://github.com/ritik177](https://github.com/ritik177)
 
-- 💬 Ask me about **React.js,javaScript,Node.js,MongoDB,Express.js,Redux,Java**
+- 💬 Ask me about **:** **React.js,javaScript,Node.js,MongoDB,Express.js,Redux,Java**
 
-- 📫 How to reach me **ritikpatel82993@gmail.com**
+- 📫 How to reach me **:** **ritikpatel82993@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf](https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf)
 ---
@@ -66,13 +66,20 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
-  <a href="" target="_blank">
+  
+  <a href="https://mui.com/" target="_blank"> 
+   <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+ </a>
+  
+  <a href="https://reactrouter.com/en/main" target="_blank">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> 
   </a>
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a> 
- 
+  <a href="https://react-redux.js.org//" target="_blank">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+ </a> 
 </p>
 
 <h3 align="center">Backend</h3>
@@ -105,7 +112,7 @@
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
 
   <a href="https://vercel.com/dashboard" target="_blank">
@@ -131,24 +138,27 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-       <a href="https://github.com/sanjeev662" target="_blank">
+       <a href="https://github.com/ritik177" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a  href="https://www.linkedin.com/in/sanjeev662" target="_blank">
+    <a  href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a  href="mailto:sanjeevsinghkaushik662@gmail.com" target="_blank">
+    <a  href="mailto:ritikpatel82993@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
     </a>
-      <a href="https://www.instagram.com/jigarsable.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+      <a href="https://instagram.com/ritikpatel881?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       
   </div>
 </div>
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik177&show_icons=true&locale=en&layout=compact" alt="ritik177" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik177&show_icons=true&locale=en" alt="ritik177" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ritik177&show_icons=true&theme=dark&locale=en" alt="ritik177" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik177&show_icons=true&theme=dark&locale=en&layout=compact" alt="ritik177" /></td>
+  </tr>
+</table>
 
 
