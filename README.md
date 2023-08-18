@@ -21,11 +21,31 @@
 
 - 📫 How to reach me **:** **ritikpatel82993@gmail.com**
 
-- 📄 Know about my experiences **:** [Resume](https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf)
+- 📄 Know about my experiences **:** <a href="https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf" target="_blank">Resume</a>
 
 - **🎯 2023 Goals: Contribute more to open source projects**
   
 ---
+
+<h3 align="center">Connect with me</h3>
+
+<div style="margin-top:10px" align="center">
+  <div>
+       <a href="https://github.com/ritik177" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+    <a  href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+    </a>
+    <a  href="mailto:ritikpatel82993@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+    </a>
+      <a href="https://instagram.com/ritikpatel881?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+      
+  </div>
+</div>
+
+<hr>
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -141,33 +161,22 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik177&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
----
-<h3 align="center">Connect with me</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-       <a href="https://github.com/ritik177" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-    <a  href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a  href="mailto:ritikpatel82993@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-    </a>
-      <a href="https://instagram.com/ritikpatel881?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      
-  </div>
-</div>
+## 📊 GitHub Activity
 
 <hr>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ritik177&show_icons=true&theme=dark&locale=en" alt="ritik177" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritik177&show_icons=true&theme=dark&locale=en&layout=compact" alt="ritik177" /></td>
-  </tr>
-</table>
+| ![ritik177 Github Stats](https://github-readme-stats.vercel.app/api?username=ritik177&show_icons=true&theme=radical) | ![ritik177 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritik177&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik177&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritik177&theme=radical&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritik177&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritik177&theme=2077)
+
+<!-- color=nord_dark -->
+
+<hr>
+
+## 📈 GitHub Contribution Graph
+[![Ritik Patel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritik177&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/ritik177/github-readme-activity-graph)
+
 
 
  
