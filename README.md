@@ -17,11 +17,14 @@
 
 - 👨‍💻 All of my projects are available at **:** [https://github.com/ritik177](https://github.com/ritik177)
 
-- 💬 Ask me about **:** **React.js, javaScript, Node.js, MongoDB, Express.js, Redux, Java**
+- **💬 Ask me about** **:** **HTML, CSS, JAVASCRIPT, ReactJS, NODE.JS, EXPRESS, MONGODB, JAVA,  GIT, Bootstrap,  POSTMAN, Data Structure & Algorithm,**
 
 - 📫 How to reach me **:** **ritikpatel82993@gmail.com**
 
-- 📄 Know about my experiences **:** [https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf](https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf)
+- 📄 Know about my experiences **:** [Resume](https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf)
+
+- **🎯 2023 Goals: Contribute more to open source projects**
+  
 ---
 
 <h3 align="center">Languages</h3>
@@ -132,6 +135,11 @@
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a> 
 </p>
+
+---
+ <div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik177&theme=2077"  display=block width=100% height=auto  alt="1" >
+</div>
 
 ---
 <h3 align="center">Connect with me</h3>
