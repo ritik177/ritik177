@@ -163,7 +163,6 @@
 
 ## 📊 GitHub Activity
 
-<hr>
 
 | ![ritik177 Github Stats](https://github-readme-stats.vercel.app/api?username=ritik177&show_icons=true&theme=radical) | ![ritik177 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritik177&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
