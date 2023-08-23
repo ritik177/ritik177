@@ -16,7 +16,7 @@
   
 - 🔭 Check out my personal **portfolio :** [Portfolio](https://portfolio-ritik177.vercel.app/)
 
-- 👨‍💻 All of my projects are available at **:** [https://github.com/ritik177](https://github.com/ritik177)
+- 👨‍💻 All of my projects are available at **:** [Github](https://github.com/ritik177)
 
 - **💬 Ask me about** **:** **HTML, CSS, JAVASCRIPT, ReactJS, NODE.JS, EXPRESS, MONGODB, JAVA,  GIT, Bootstrap,  POSTMAN, Data Structure & Algorithm,**
 
