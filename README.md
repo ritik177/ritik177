@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **:** **ritikpatel82993@gmail.com**
 
-- 📄 Know about my experiences **:** <a href="https://portfolio-ruddy-eight-72.vercel.app/static/media/cv.f853c89b4ba28685f9a3.pdf" target="_blank">Resume</a>
+- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1ZYQNAGu4ubuNMZV7rpkxEXIokpFuOFSX/view" target="_blank">Resume</a>
 
 - **🎯 2023 Goals: Contribute more to open source projects**
   
