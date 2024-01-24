@@ -1,4 +1,4 @@
-![logo](https://e0.pxfuel.com/wallpapers/429/481/desktop-wallpaper-github-github-game-off-2013.jpg)
+![logo](https://vrittechnologies.com/wp-content/uploads/elementor/thumbs/mern-1-1-q5x2yhvatai9vtyw8a3ej696750cy5yu4um084metk.png)
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank"> RITIK PATEL </a></h1>
 <h3 align="center">A passionate Full-Stack Developer(MERN) from India</h3>
