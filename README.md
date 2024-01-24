@@ -1,4 +1,4 @@
-![logo](https://github.blog/wp-content/uploads/2023/05/1200.630-Security-wLogo.png?fit=1200%2C630)
+![logo](https://www.split.io/wp-content/uploads/Blog-2160x1080_GitandGitHubatWork-1.jpg)
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank"> RITIK PATEL </a></h1>
 <h3 align="center">A passionate Full-Stack Developer(MERN) from India</h3>
