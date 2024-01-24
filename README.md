@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:1000/1*UvdlwuRkhWuU6IKZFUDksg.jpeg)
+![logo](https://mlevoeuxkg44.i.optimole.com/w:1024/h:512/q:mauto/f:avif/https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg)
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank"> RITIK PATEL </a></h1>
 <h3 align="center">A passionate Full-Stack Developer(MERN) from India</h3>
