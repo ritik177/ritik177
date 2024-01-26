@@ -14,21 +14,13 @@
 
 ---
 ### 👦 About Me
-
 - **🌱 Learning Never Stops 🚀**
-  
 - 🔭 Check out my personal **portfolio :** [Portfolio](https://portfolio-ritik177.vercel.app/)
-
 - 👨‍💻 All of my projects are available at **:** [Github](https://github.com/ritik177)
-
-- **💬 Ask me about** **:** **HTML, CSS, JAVASCRIPT, ReactJS, NODE.JS, EXPRESS, MONGODB, JAVA,  GIT, Bootstrap,  POSTMAN, Data Structure & Algorithm,**
-
 - 📫 How to reach me **:** **ritikpatel82993@gmail.com**
-
 - 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1ZYQNAGu4ubuNMZV7rpkxEXIokpFuOFSX/view" target="_blank">Resume</a>
-
-- **🎯 2023 Goals: Contribute more to open source projects**
-  
+- **💬 Ask me about** **:** **HTML, CSS, JAVASCRIPT, ReactJS, NODE.JS, EXPRESS, MONGODB, JAVA,  GIT, Bootstrap,  POSTMAN, Data Structure & Algorithm,**
+- **🎯 2024 Goals: Contribute more to open source projects**
 ---
 
 <h3 align="center">Connect with me</h3>
