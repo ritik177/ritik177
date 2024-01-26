@@ -153,6 +153,31 @@
 </p>
 
 ---
+### ⚙️ My Projects 
+
+#### Full-Stack Projects :
+* [Amazon-Clone-app(MERN)](https://github.com/ritik177/Amazon-Clone)
+* [Chat-app (MERN)](https://github.com/ritik177/ChatApp)
+* [CRUD-Using-MERN](https://github.com/ritik177/CRUD-Application-Using-MERN-Stack)
+* [Login-With-Google](https://github.com/ritik177/LoginWithGoogle)
+
+#### Frontend Projects :
+* [E-Commerce(With Payment getway)](https://github.com/ritik177/E-Commerce-website)
+* [Portfolio(React)](https://github.com/ritik177/Portfolio)
+* [Portfolio(JavaScript)](https://github.com/ritik177/Portfolio_Using-JavaScript)
+* [Weather-app (API used)](https://github.com/ritik177/Weather-App)
+* [Pagination(React-Bootstrap)](https://github.com/ritik177/Pagination-Using-React-Bootstrap)
+* [News-app (API used)](https://github.com/ritik177/News-app)
+* [To-Do-List(JavaScript)](https://github.com/ritik177/To-Do-List)
+
+#### UI Projects :
+
+* [Fiver-Clone (React)](https://github.com/ritik177/Fiverr-clone-UI)
+
+
+<!-- <hr> -->
+---
+
  <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik177&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
