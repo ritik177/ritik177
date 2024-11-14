@@ -153,7 +153,7 @@
 </p>
 
 ---
-### ⚙️ My Projects 
+<!-- ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
 * [Amazon-Clone-app(MERN)](https://github.com/ritik177/Amazon-Clone)
@@ -172,7 +172,7 @@
 
 #### UI Projects :
 
-* [Fiver-Clone (React)](https://github.com/ritik177/Fiverr-clone-UI)
+* [Fiver-Clone (React)](https://github.com/ritik177/Fiverr-clone-UI)-->
 
 
 <!-- <hr> -->
