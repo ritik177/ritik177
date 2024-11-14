@@ -152,7 +152,7 @@
   </a> 
 </p>
 
----
+
 <!-- ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
@@ -176,34 +176,28 @@
 
 
 <!-- <hr> -->
----
 
+<!--
  <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritik177&theme=2077"  display=block width=100% height=auto  alt="1" >
-</div>
-
+</div>-->
+<!--
 ## 📊 GitHub Activity
 
 
 | ![ritik177 Github Stats](https://github-readme-stats.vercel.app/api?username=ritik177&show_icons=true&theme=radical) | ![ritik177 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritik177&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik177&langs_count=8&theme=radical&layout=compact) | ![Github Stars](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ritik177&theme=radical&utcOffset=8) |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritik177&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritik177&theme=2077)
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritik177&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ritik177&theme=2077)-->
 
 <!-- color=nord_dark -->
 
-<hr>
 
+<!--
 ## 📈 GitHub Contribution Graph
 [![Ritik Patel github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritik177&bg_color=d4d1ff&color=4c749e&line=9e4c59&point=40413e&area=true&hide_border=true)](https://github.com/ritik177/github-readme-activity-graph)
-
-
-
+-->
  
 
-<hr>
 
-<h2 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈!</h2>
-
-<hr>
-
+<h1 align="center">☺𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈!</h1>
