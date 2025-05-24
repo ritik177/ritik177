@@ -18,9 +18,9 @@
 - 🔭 Check out my personal **portfolio :** [Portfolio](https://portfolio-ritik177.vercel.app/)
 - 👨‍💻 All of my projects are available at **:** [Github](https://github.com/ritik177)
 - 📫 How to reach me **:** **ritikpatel82993@gmail.com**
-- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1JU8BDvB6CrNosuutObspamPSDqnlFeSV/view">Resume</a>
+- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1g0yuK_-DEQv-YOwAHv5FWrATg-OHybSv/view">Resume</a>
 - **💬 Ask me about** **:** **HTML, CSS, JAVASCRIPT, ReactJS, NODE.JS, EXPRESS, MONGODB, JAVA,  GIT, Bootstrap,  POSTMAN, Data Structure & Algorithm,**
-- **🎯 2024 Goals: Contribute more to open source projects**
+- **🎯 2025 Goals: Contribute more to open source projects**
 
 <hr>
 
@@ -47,23 +47,26 @@
 
 ###### <b>Backend Technology :</b>
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![mySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mySql&logoColor=fff)&nbsp;
-![mongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongoDB)&nbsp;
-![mongoose](https://img.shields.io/badge/-Mongoose%20ODM-05122A?style=flat&logo=mongoose)&nbsp;
-![MSSQL](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=MSSQL&logoColor=fff)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose%20ODM-05122A?style=flat&logo=mongoose)
+![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=docker)
 
 ###### <b>Software Development Tools :</b>
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=800080)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=800080)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)
+
 
 ###### <b>Operating System Used :</b>
 
+![mac](https://img.shields.io/badge/-mac-05122A?style=flat&logo=apple)
 ![linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)
-![windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 
 
 ###### <b>Cloud & Hosting:</b>
