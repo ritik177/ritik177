@@ -30,7 +30,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=coffeescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
 
 ###### <b>Frontend Technology :</b>
 
