@@ -15,11 +15,11 @@
 
 ### 👦 About Me
 - **🌱 Learning Never Stops 🚀**
-- 🔭 Check out my personal **portfolio :** [Portfolio]([https://portfolio-ritik177.vercel.app/](https://ritik-patel-portfolio.vercel.app/))
+- 🔭 Check out my personal **portfolio :** [Portfolio](https://ritik-patel-portfolio.vercel.app/)
 - 👨‍💻 All of my projects are available at **:** [Github](https://github.com/ritik177)
-- 📫 How to reach me **:** **ritikpatel82993@gmail.com**
-- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1g0yuK_-DEQv-YOwAHv5FWrATg-OHybSv/view">Resume</a>
-- **💬 Ask me about** **:** **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Supabase, Tailwind CSS, Bootstrap, Microservices Architecture, RESTful APIs, Docker, Git, Postman, Java, and Data Structures & Algorithms**
+- 📫 How to reach me **:** **ritikpatel.dev@gmail.com**
+- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1YwCfVZSJHV5w-O7H4ibJsMngvvtKUfSz/view">Resume</a>
+- **💬 Ask me about** **:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Supabase, Tailwind CSS, Bootstrap, Microservices Architecture, RESTful APIs, Docker, Git, Postman, Java, and Data Structures & Algorithms.
 - **🎯 2025 Goals: Contribute more to open source projects**
 
 <hr>
