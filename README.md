@@ -51,6 +51,7 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![Mongoose](https://img.shields.io/badge/-Mongoose%20ODM-05122A?style=flat&logo=mongoose)
 ![Microservices](https://img.shields.io/badge/-Microservices-05122A?style=flat&logo=docker)
 
