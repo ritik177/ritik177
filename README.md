@@ -85,7 +85,7 @@
 <a href="https://www.facebook.com/profile.php?id=100057104791299"><img src="https://img.shields.io/badge/-Ritik Patel-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://leetcode.com/u/madrith/"><img src="https://img.shields.io/badge/-RitikPatel-FFF?style=flat&logo=leetcode&logoColor=yellow"/></a>
 <a href="mailto:ritikpatel.dev@gmail.com"><img src="https://img.shields.io/badge/-Ritik%20Patel-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ritik_patel_2410/profilecard/?igsh=cjR3dWZuNXhwZzV6"><img src="https://img.shields.io/badge/-Ritik Patel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/its__ritik._/"><img src="https://img.shields.io/badge/-Ritik Patel-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
