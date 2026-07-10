@@ -20,7 +20,7 @@
 - 📫 How to reach me **:** **ritikpatel.dev@gmail.com**
 - 📄 Know about my experiences **:** [Resume](https://drive.google.com/file/d/1FqD1_VLoW3G4MvegiA4S8Vww-lsPCFZB/view?usp=sharing)
 - **💬 Ask me about** **:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Supabase, Tailwind CSS, Bootstrap, Microservices Architecture, RESTful APIs, Docker, Git, Postman, Java, and Data Structures & Algorithms.
-- **🎯 2025 Goals: Contribute more to open source projects**
+- **🎯 2026 Goals: Contribute more to open source projects**
 
 <hr>
 
