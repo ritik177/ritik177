@@ -18,7 +18,7 @@
 - 🔭 Check out my personal **portfolio :** [Portfolio](https://ritik-patel-portfolio.vercel.app/)
 - 👨‍💻 All of my projects are available at **:** [Github](https://github.com/ritik177)
 - 📫 How to reach me **:** **ritikpatel.dev@gmail.com**
-- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1YwCfVZSJHV5w-O7H4ibJsMngvvtKUfSz/view">Resume</a>
+- 📄 Know about my experiences **:** [Resume](https://drive.google.com/file/d/1FqD1_VLoW3G4MvegiA4S8Vww-lsPCFZB/view?usp=sharing)
 - **💬 Ask me about** **:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL, Supabase, Tailwind CSS, Bootstrap, Microservices Architecture, RESTful APIs, Docker, Git, Postman, Java, and Data Structures & Algorithms.
 - **🎯 2025 Goals: Contribute more to open source projects**
 
