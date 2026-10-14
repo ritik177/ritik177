@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hey there! I'm <a href="https://www.linkedin.com/in/ritik-patel-3931b5258/" target="_blank"> RITIK PATEL </a></h1>
 <h3 align="center">A passionate Full-Stack Developer(MERN) from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Ritik%2C+Welcome+to+my+Github+page.)](https://github.com/ritik177)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Ritik%2C+Welcome+to+my+GitHub+page.)](https://github.com/ritik177)
 
 
 
@@ -15,7 +15,7 @@
 
 ### 👦 About Me
 - **🌱 Learning Never Stops 🚀**
-- 🔭 Check out my personal **portfolio :** [Portfolio](https://ritik-patel-portfolio.vercel.app/)
+- 🔭 Check out my personal **portfolio :** [Portfolio](https://ritikportfolio-rose.vercel.app/)
 - 👨‍💻 All of my projects are available at **:** [Github](https://github.com/ritik177)
 - 📫 How to reach me **:** **ritikpatel.dev@gmail.com**
 - 📄 Know about my experiences **:** [Resume](https://drive.google.com/file/d/1FqD1_VLoW3G4MvegiA4S8Vww-lsPCFZB/view?usp=sharing)
